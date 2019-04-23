@@ -26,7 +26,7 @@
           "image": "https://pbs.twimg.com/media/CtJYvx1XgAIilZ4.jpg"
         }, {
           "text": "Found the most brilliant invention in human history",
-          "image": "https://pbs.twimg.com/media/Cr7cSz1WIAA0OZj.jpg"
+          "image": "https://pbs.twimg.com/media/Cub2D-vXYAIXFQo.jpg"
         }, {
           "text": "Ludlow and Rivington. NOW.",
           "image": "https://pbs.twimg.com/media/CrNnHPUWEAEK_b3.jpg"
@@ -56,7 +56,7 @@
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
+                "url": "https://github.com/omiyehan/Twitter-UI-example/blob/4e518fcffc1e81f01c3274037193a19965b59860/home.json"
               }, {
                 "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/notifications.png",
                 "text": "Notifications",
@@ -70,14 +70,14 @@
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
+                "url": "https://github.com/omiyehan/Twitter-UI-example/blob/4e518fcffc1e81f01c3274037193a19965b59860/home.json"
               }, {
                 "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/messages.png",
                 "text": "Messages",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/home.json"
+                "url": "https://github.com/omiyehan/Twitter-UI-example/blob/4e518fcffc1e81f01c3274037193a19965b59860/home.json"
               }, {
                 "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/me.png",
                 "text": "Me",
