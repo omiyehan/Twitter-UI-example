@@ -17,13 +17,7 @@
           }
         }
       },
-      "background": {
-        "type": "html",
-        "url": "http://docs.jasonette.com/"
-        
-             }
-        }
-      },
+      
       "data": {
         "tweets": [{
           "text": "WELCOME TO BRAINISLAND INTERNATIONAL SCHOOL.",
