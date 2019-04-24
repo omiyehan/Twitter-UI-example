@@ -56,21 +56,21 @@
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/home.json"
+                "url": "https://raw.githubusercontent.com/omiyehan/Jasonpedia/gh-pages/hello.json"
               }, {
                 "image": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/images/notifications.png",
                 "text": "Notifications",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://jasonette.github.io/Jasonpedia/view/index.json"
+                "url": "https://jasonette.github.io/Jasonpedia/webcontainer/index.json"
               }, {
                 "image": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/images/moments.png",
                 "text": "Login",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://github.com/omiyehan/Jasonpedia/edit/gh-pages/hello.json"
+                "url": "https://jasonette.github.io/Jasonpedia/webcontainer/index.json"
               }, {
                 "image": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/images/messages.png",
                 "text": "Messages",
