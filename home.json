@@ -135,8 +135,8 @@
                       "size": "14"
                     }
                   }, {
-                    "type": "image",
-                    "url": "{{image}}",
+                    "type": "html",
+                    "url": "{{url}}",
                     "style": {
                       "corner_radius": "5"
                     }
@@ -150,7 +150,7 @@
                       "style": {
                         "height": "20"
                       },
-                      "url": "https://g.twimg.com/dev/documentation/image/reply-action_0.png"
+                      "url": "https://g.twimg.com"
                     }, {
                       "type": "space",
                       "style": {
