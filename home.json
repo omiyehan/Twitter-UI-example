@@ -97,7 +97,7 @@
                 },
                 "components": [{
                   "type": "image",
-                  "url": "https://pbs.twimg.com/",
+                  "url": "",
                   "style": {
                     "width": "48",
                     "height": "48",
@@ -120,7 +120,7 @@
                       }
                     }, {
                       "type": "label",
-                      "text": "@gliechtenstein · 8h",
+                      "text": "",
                       "style": {
                         "color": "#8899a6",
                         "size": "13",
@@ -150,7 +150,7 @@
                       "style": {
                         "height": "20"
                       },
-                      "url": "https://g.twimg.com"
+                      "url": ""
                     }, {
                       "type": "space",
                       "style": {
@@ -161,7 +161,7 @@
                       "style": {
                         "height": "20"
                       },
-                      "url": "https://g.twimg.com/"
+                      "url": ""
                     }, {
                       "type": "space",
                       "style": {
@@ -172,7 +172,7 @@
                       "style": {
                         "height": "20"
                       },
-                      "url": "https://g.twimg.com/"
+                      "url": ""
                     }, {
                       "type": "space"
                     }]
