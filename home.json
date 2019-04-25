@@ -21,9 +21,7 @@
         "tweets": [{
           "text": "WELCOME TO BRAINISLAND INTERNATIONAL SCHOOL.",
           "image": "http://brainislandschool.com/wp-content/uploads/2018/07/IMG-20180717-WA0000.jpg"
-        }, {
-         },
-              }]
+        }]
       },
       "templates": {
         "body": {
@@ -32,7 +30,8 @@
               "type": "image",
               "style": {
                 "width": "35",
-                 "height": "35"
+                "height": "35"
+              },
               "url": "http://www.brainislandschool.com/wp-content/uploads/2018/07/IMG-20180716-WA0000-e1531819295396.png"
             }
           },
