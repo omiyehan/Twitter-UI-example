@@ -20,7 +20,7 @@
       "data": {
         "tweets": [{
           "text": "WELCOME TO BRAINISLAND INTERNATIONAL SCHOOL.",
-          "image": "http://www.brainislandschool.com/wp-content/uploads/2018/07/IMG-20180716-WA0000-e1531819295396.png"
+          "image": ""
         }, {
           "text": "...",
           "image": ""
@@ -41,7 +41,7 @@
                 "width": "35",
                 "height": "35"
               },
-              "url": "http://www.brainislandschool.com/"
+              "url": "http://www.brainislandschool.com/wp-content/uploads/2018/07/IMG-20180716-WA0000-e1531819295396.png"
             }
           },
           "footer": {
@@ -112,7 +112,7 @@
                     "type": "horizontal",
                     "components": [{
                       "type": "label",
-                      "text": "ethan",
+                      "text": "",
                       "style": {
                         "font": "HelveticaNeue-Bold",
                         "width": "50",
@@ -161,7 +161,7 @@
                       "style": {
                         "height": "20"
                       },
-                      "url": "https://g.twimg.com/dev/documentation/image/retweet-action.png"
+                      "url": "https://g.twimg.com/"
                     }, {
                       "type": "space",
                       "style": {
@@ -172,7 +172,7 @@
                       "style": {
                         "height": "20"
                       },
-                      "url": "https://g.twimg.com/dev/documentation/image/like-action.png"
+                      "url": "https://g.twimg.com/"
                     }, {
                       "type": "space"
                     }]
