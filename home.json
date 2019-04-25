@@ -63,14 +63,14 @@
                 "style": {
                   "height": "21"
                 },
-                "url": "http://www.brainislandschool.com/brainisland/site/userlogin"
+                "url": "https://raw.githubusercontent.com/omiyehan/Jasonpedia/gh-pages/webcontainer/noticification.json"
               }, {
                 "image": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/images/moments.png",
-                "text": "Login",
+                "text": "Attendence",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://jasonette.github.io/Jasonpedia/webcontainer/index.json"
+                "url": "https://raw.githubusercontent.com/omiyehan/Jasonpedia/gh-pages/webcontainer/attendence.json"
               }, {
                 "image": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/images/messages.png",
                 "text": "Messages",
@@ -84,7 +84,7 @@
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/omiyehan/Jasonpedia/gh-pages/webcontainer/iframe.json"
+                "url": "https://raw.githubusercontent.com/omiyehan/Jasonpedia/gh-pages/webcontainer/dasboard.json"
               }]
             }
           },
