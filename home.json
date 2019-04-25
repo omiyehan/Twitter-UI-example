@@ -135,8 +135,8 @@
                       "size": "14"
                     }
                   }, {
-                    "type": "html",
-                    "url": "{{url}}",
+                    "type": "image",
+                    "url": "{{image}}",
                     "style": {
                       "corner_radius": "5"
                     }
