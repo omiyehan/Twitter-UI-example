@@ -56,7 +56,7 @@
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/omiyehan/Jasonpedia/gh-pages/hello.json"
+                "url": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/home.json"
               }, {
                 "image": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/images/notifications.png",
                 "text": "Notifications",
