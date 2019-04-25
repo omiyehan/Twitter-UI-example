@@ -1,7 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "Twitter",
+      "title": "Brainisland International School",
       "styles": {
         "note": {
           "color": "#ffffff",
@@ -22,14 +22,14 @@
           "text": "WELCOME TO BRAINISLAND INTERNATIONAL SCHOOL.",
           "image": "http://www.brainislandschool.com/wp-content/uploads/2018/07/IMG-20180716-WA0000-e1531819295396.png"
         }, {
-          "text": "I think this is a new feature on Twitter: a push notification for every tweet",
-          "image": "https://pbs.twimg.com/media/CtJYvx1XgAIilZ4.jpg"
+          "text": "",
+          "image": ""
         }, {
-          "text": "Found the most brilliant invention in human history",
-          "image": "https://pbs.twimg.com/media/Cr7cSz1WIAA0OZj.jpg"
+          "text": "",
+          "image": ""
         }, {
-          "text": "Ludlow and Rivington. NOW.",
-          "image": "https://pbs.twimg.com/media/CrNnHPUWEAEK_b3.jpg"
+          "text": "",
+          "image": ""
         }]
       },
       "templates": {
@@ -41,7 +41,7 @@
                 "width": "35",
                 "height": "35"
               },
-              "url": "https://github.com/omiyehan/Twitter-UI-example/blob/master/images/logo.png"
+              "url": "http://www.brainislandschool.com/wp-content/uploads/2018/07/IMG-20180716-WA0000-e1531819295396.png"
             }
           },
           "footer": {
