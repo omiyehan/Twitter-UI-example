@@ -73,11 +73,11 @@
                 "url": "https://raw.githubusercontent.com/omiyehan/Jasonpedia/gh-pages/webcontainer/attendence.json"
               }, {
                 "image": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/images/messages.png",
-                "text": "Messages",
+                "text": "Homework",
                 "style": {
                   "height": "21"
                 },
-                "url": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/home.json"
+                "url": "https://raw.githubusercontent.com/omiyehan/Jasonpedia/gh-pages/webcontainer/homework.json"
               }, {
                 "image": "https://raw.githubusercontent.com/omiyehan/Twitter-UI-example/master/images/me.png",
                 "text": "Me",
